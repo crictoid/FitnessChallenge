@@ -1,0 +1,12 @@
+C:\Users\mdbul\source\repos\BulmerFitnessChallenge\bin\Debug\BulmerFitnessChallenge.exe.config
+C:\Users\mdbul\source\repos\BulmerFitnessChallenge\bin\Debug\BulmerFitnessChallenge.exe
+C:\Users\mdbul\source\repos\BulmerFitnessChallenge\bin\Debug\BulmerFitnessChallenge.pdb
+C:\Users\mdbul\source\repos\BulmerFitnessChallenge\bin\Debug\BulmerFitnessChallenge.xml
+C:\Users\mdbul\source\repos\BulmerFitnessChallenge\obj\Debug\BulmerFitnessChallenge.vbproj.AssemblyReference.cache
+C:\Users\mdbul\source\repos\BulmerFitnessChallenge\obj\Debug\BulmerFitnessChallenge.frmFitness.resources
+C:\Users\mdbul\source\repos\BulmerFitnessChallenge\obj\Debug\BulmerFitnessChallenge.Resources.resources
+C:\Users\mdbul\source\repos\BulmerFitnessChallenge\obj\Debug\BulmerFitnessChallenge.vbproj.GenerateResource.cache
+C:\Users\mdbul\source\repos\BulmerFitnessChallenge\obj\Debug\BulmerFitnessChallenge.vbproj.CoreCompileInputs.cache
+C:\Users\mdbul\source\repos\BulmerFitnessChallenge\obj\Debug\BulmerFitnessChallenge.exe
+C:\Users\mdbul\source\repos\BulmerFitnessChallenge\obj\Debug\BulmerFitnessChallenge.xml
+C:\Users\mdbul\source\repos\BulmerFitnessChallenge\obj\Debug\BulmerFitnessChallenge.pdb
